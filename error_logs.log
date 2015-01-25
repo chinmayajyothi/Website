@@ -1,0 +1,42 @@
+[2014-12-15 20:36:04 +0000] [4430] [INFO] Starting gunicorn 19.1.1
+[2014-12-15 20:36:04 +0000] [4430] [INFO] Listening at: http://127.0.0.1:8001 (4430)
+[2014-12-15 20:36:04 +0000] [4430] [INFO] Using worker: sync
+[2014-12-15 20:36:04 +0000] [4435] [INFO] Booting worker with pid: 4435
+[2014-12-15 20:53:57 +0000] [4435] [INFO] Worker exiting (pid: 4435)
+[2014-12-15 20:53:57 +0000] [4430] [INFO] Handling signal: term
+[2014-12-15 20:53:57 +0000] [4430] [INFO] Shutting down: Master
+[2014-12-15 20:53:57 +0000] [5233] [INFO] Starting gunicorn 19.1.1
+[2014-12-15 20:53:57 +0000] [5233] [INFO] Listening at: http://127.0.0.1:8001 (5233)
+[2014-12-15 20:53:57 +0000] [5233] [INFO] Using worker: sync
+[2014-12-15 20:53:57 +0000] [5238] [INFO] Booting worker with pid: 5238
+[2014-12-15 21:16:19 +0000] [5238] [INFO] Worker exiting (pid: 5238)
+[2014-12-15 21:16:19 +0000] [5233] [INFO] Handling signal: term
+[2014-12-15 21:16:19 +0000] [5233] [INFO] Shutting down: Master
+[2014-12-15 21:45:34 +0000] [4470] [INFO] Starting gunicorn 19.1.1
+[2014-12-15 21:45:34 +0000] [4470] [INFO] Listening at: http://127.0.0.1:8001 (4470)
+[2014-12-15 21:45:34 +0000] [4470] [INFO] Using worker: sync
+[2014-12-15 21:45:34 +0000] [4475] [INFO] Booting worker with pid: 4475
+[2014-12-15 22:47:48 +0000] [4470] [INFO] Handling signal: term
+[2014-12-15 22:47:48 +0000] [4475] [INFO] Worker exiting (pid: 4475)
+[2014-12-15 22:47:48 +0000] [4470] [INFO] Shutting down: Master
+[2015-01-11 17:16:07 +0000] [4214] [INFO] Starting gunicorn 19.1.1
+[2015-01-11 17:16:07 +0000] [4214] [INFO] Listening at: http://127.0.0.1:8001 (4214)
+[2015-01-11 17:16:07 +0000] [4214] [INFO] Using worker: sync
+[2015-01-11 17:16:07 +0000] [4219] [INFO] Booting worker with pid: 4219
+[2015-01-11 17:52:16 +0000] [4214] [INFO] Handling signal: term
+[2015-01-11 17:52:16 +0000] [4219] [INFO] Worker exiting (pid: 4219)
+[2015-01-11 17:52:16 +0000] [4214] [INFO] Shutting down: Master
+[2015-01-11 18:17:52 +0000] [7776] [INFO] Starting gunicorn 19.1.1
+[2015-01-11 18:17:52 +0000] [7776] [INFO] Listening at: http://127.0.0.1:8001 (7776)
+[2015-01-11 18:17:52 +0000] [7776] [INFO] Using worker: sync
+[2015-01-11 18:17:52 +0000] [7781] [INFO] Booting worker with pid: 7781
+[2015-01-11 18:26:45 +0000] [7776] [INFO] Handling signal: term
+[2015-01-11 18:26:45 +0000] [7781] [INFO] Worker exiting (pid: 7781)
+[2015-01-11 18:26:45 +0000] [7776] [INFO] Shutting down: Master
+[2015-01-11 18:26:50 +0000] [8574] [INFO] Starting gunicorn 19.1.1
+[2015-01-11 18:26:50 +0000] [8574] [INFO] Listening at: http://127.0.0.1:8001 (8574)
+[2015-01-11 18:26:50 +0000] [8574] [INFO] Using worker: sync
+[2015-01-11 18:26:50 +0000] [8579] [INFO] Booting worker with pid: 8579
+[2015-01-11 20:33:41 +0000] [8579] [INFO] Worker exiting (pid: 8579)
+[2015-01-11 20:33:41 +0000] [8574] [INFO] Handling signal: term
+[2015-01-11 20:33:41 +0000] [8574] [INFO] Shutting down: Master
